@@ -12,7 +12,7 @@
 
 ## 🚀 Tecnologias
 
-- [REACT JS] (https://pt-br.reactjs.org/), 
+- [REACT JS] (https://pt-br.reactjs.org/) 
 - CSS 
 - [JavaScript](https://tableless.github.io/iniciantes/manual/js/)
 
