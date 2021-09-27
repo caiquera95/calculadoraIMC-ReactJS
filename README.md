@@ -3,10 +3,10 @@
 
 ###  📱 Layout
 
-#Acesse https://calculatorde-imc.netlify.app/
+### Acesse https://calculatorde-imc.netlify.app/ <br>
 
 <p align="center">
-  <img alt="Calculadora IMC" src="https://ik.imagekit.io/aowlcgixdo/calculadora_de_imc.png?updatedAt=1632766450846" width="350" >
+  <img alt="Calculadora IMC" src="https://ik.imagekit.io/aowlcgixdo/calculadora_de_imc_A3VUXDkkW.png?updatedAt=1632767628424" width="350" >
   
 </p>
 
